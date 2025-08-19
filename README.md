@@ -4,6 +4,9 @@ Could somebody can help endorse me for arXiv?
 
 https://arxiv.org/auth/endorse?x=NFZ4KD
 
+I wrote a paper for GPU assisted LLM BPE offloading
+https://github.com/99degree/gpu_assisted_bpe/blob/utf/TableBPE.xml
+
 This is 99degree profile page. Please find it useful.
 
 <!--
