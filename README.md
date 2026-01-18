@@ -7,6 +7,10 @@ https://arxiv.org/auth/endorse?x=NFZ4KD
 I wrote a paper for GPU assisted LLM BPE offloading
 https://github.com/99degree/gpu_assisted_bpe/blob/utf/TableBPE.xml
 
+I also wrote a paper to unify camera lens LSC and GDC by same grip map
+so the gain and GDC displacement can be obtain from same polynormial.
+https://github.com/99degree/99degree/blob/main/lsc_displacement_map.pdf
+
 This is 99degree profile page. Please find it useful.
 
 <!--
