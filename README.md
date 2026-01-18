@@ -10,6 +10,8 @@ https://github.com/99degree/gpu_assisted_bpe/blob/utf/TableBPE.xml
 I also wrote a paper to unify camera lens LSC and GDC by same grip map
 so the gain and GDC displacement can be obtain from same polynormial.
 https://github.com/99degree/99degree/blob/main/lsc_displacement_map.pdf
+And the approximation is as following.
+https://github.com/99degree/99degree/blob/main/lsc_displacement_map_approx.pdf
 
 This is 99degree profile page. Please find it useful.
 
