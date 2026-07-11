@@ -21,7 +21,7 @@ This is 99degree profile page. Please find it useful.
 
 **Technical Innovation Essay**: [`FILM_INNOVATION.md`](FILM_INNOVATION.md) | **Essay PDF**: [`FILM_INNOVATION.pdf`](FILM_INNOVATION.pdf)
 
-**Formal Paper Draft**: [`FILM_ISP_PAPER.md`](../softisp/isp-rectifier/FILM_ISP_PAPER.md) | **Paper PDF**: [`FILM_ISP_PAPER.pdf`](FILM_ISP_PAPER.pdf)
+**Formal Paper Draft**: [`FILM_ISP_PAPER.md`](FILM_ISP_PAPER.md) | **Paper PDF**: [`FILM_ISP_PAPER.pdf`](FILM_ISP_PAPER.pdf)
 
 > A novel architectural approach for skin-tone-aware Image Signal Processor (ISP) parameter prediction using **Feature-wise Linear Modulation (FiLM)**. Unlike existing methods that rely on explicit face detection or demographic classification, our method conditions the entire ISP parameter prediction network on a continuous skin-tone estimate derived directly from full-frame histogram statistics. The result is a single ONNX model that adapts its WB, CCM, tone curve, and zoom predictions per frame based on estimated scene skin tone—without face detection, demographic labels, or discrete expert switching.
 
